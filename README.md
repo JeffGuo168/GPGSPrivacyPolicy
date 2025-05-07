@@ -1,0 +1,2 @@
+# GPGSPrivacyPolicy
+GPGSPrivacyPolicy for googleConsole
